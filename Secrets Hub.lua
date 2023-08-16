@@ -28,7 +28,7 @@ local Window = Rayfield:CreateWindow({
 
  local PlayerTab = Window:CreateTab("Player", 4483362458) -- Title, Image
 
- local Slider = Tab:CreateSlider({
+ local Slider = PlayerTab:CreateSlider({
     Name = "WalkSpeed",
     Range = {10, 100},
     Increment = 1,
@@ -36,5 +36,6 @@ local Window = Rayfield:CreateWindow({
     CurrentValue = 10,
     Flag = "Slider1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
     Callback = function(Value)
+      game.Players.LocalPlayer.Character:SetAttribute("SpeedMultiplier", Value)
     end,
  })
