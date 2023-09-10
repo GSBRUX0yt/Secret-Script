@@ -1,4 +1,4 @@
-# --Portugues (Brasil) 🇧🇷
+# --Portugues (BR)
 
 # **Leia-me do Secret Hub - O Supremo Script para Blox Fruits**
 
@@ -48,3 +48,53 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/FreeKeySys
 ```
 4. ***Coloque Sua Key E Se Divirta***
 
+
+# --English (EUA)
+
+# **Secret Hub Readme - The Ultimate Script for Blox Fruits**
+
+## Welcome to Secret Hub, the ultimate in scripting for Blox Fruits! This revolutionary script is designed to take your gaming experience to a new level, providing unparalleled features and functionality to help you dominate the world of Blox Fruits like never before.
+
+**Key Features:**
+
+1. **Enhanced Auto Farm:** Secret Hub offers an advanced automated farm system, allowing you to effortlessly collect fruits, EXP, and precious items. Save valuable time while your character performs necessary actions automatically.
+
+2. **Enhanced Combat:** Dominate combat with features like Auto-Attack, Auto-Farm and Auto-Boss. Increase your chances against powerful enemies and challenging bosses by using pre-defined strategies and automatic skills.
+
+3. **Quick Teleport:** Instantly travel between islands and locations with Secret Hub's quick teleport function. Save exploration time and focus on what really matters: your exciting adventures.
+
+4. **Customizable Alert System:** Never miss an important event or valuable opportunity again. Secret Hub allows you to set custom alerts for special fruits, respawning bosses, and unique events, ensuring you're always ahead of the curve.
+
+5. **Constant Updates:** The team behind Secret Hub is committed to continued excellence. Expect regular updates that bring new features, performance improvements, and support for the latest Blox Fruits updates.
+
+**How ​​to begin:**
+
+1. Download Secret Hub from our official website.
+2. Run the installer and follow the instructions to configure the script.
+3. Open Blox Fruits and launch Secret Hub from the menu.
+4. Explore all the amazing features and tweaks available.
+5. Play with confidence and dominate the world of Blox Fruits!
+
+**System Requirements:**
+
+- A computer with Windows operating system.
+- The latest version of Blox Fruits installed.
+- Stable internet connection to download updates and synchronize the script.
+
+**Note:** Secret Hub was developed with a focus on improving the player experience, but please remember that using scripts in online games may violate terms of service and result in penalties. Use Secret Hub responsibly and be aware of the risks associated with using scripts in games.
+
+Enjoy the ultimate competitive advantage with Secret Hub and become a true Blox Fruits master. Dominate the sea and conquer the islands with ease, all thanks to the power of the Secret Hub!
+
+
+> To Use The Script Is Very Simple:
+
+1. ***Open [Secret Hub] Website(https://secrets-hub.webnode.page)***
+2. ***Click on Get Key and Pass Checkpoints***
+3. ***Use This Script Format:***
+```
+Key = "" -- Enter Your Key Here (Put Your Key Here Before Starting The Script)
+Link = "https://secrets-hub.webnode.page"
+Script = "https://raw.githubusercontent.com/GSBRUX0yt/Secret-Script/main/Secret%20Hub.lua"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/FreeKeySystem/main/Lib.lua"))().Sus(Link,Script,Key)
+```
+4. ***Put Your Key and Have Fun***
