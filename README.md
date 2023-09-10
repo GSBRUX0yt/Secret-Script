@@ -43,6 +43,7 @@ Aproveite a vantagem competitiva definitiva com o Secret Hub e torne-se um verda
 ```Key = "" -- Enter Your Key Here (Coloque Sua Key Aqui Antes de Iniciar O Script)
 Link = "https://secrets-hub.webnode.page"
 Script = "https://raw.githubusercontent.com/GSBRUX0yt/Secret-Script/main/Secret%20Hub.lua"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/FreeKeySystem/main/Lib.lua"))().Sus(Link,Script,Key)```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/FreeKeySystem/main/Lib.lua"))().Sus(Link,Script,Key)
+```
 4. ***Coloque Sua Key E Se Divirta***
 
