@@ -88,7 +88,7 @@ Enjoy the ultimate competitive advantage with Secret Hub and become a true Blox 
 
 > To Use The Script Is Very Simple:
 
-1. ***Open [Secret Hub] Website(https://secrets-hub.webnode.page)***
+1. ***Open [Secret Hub Website](https://secrets-hub.webnode.page)***
 2. ***Click on Get Key and Pass Checkpoints***
 3. ***Use This Script Format:***
 ```
