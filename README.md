@@ -34,21 +34,6 @@
 
 Aproveite a vantagem competitiva definitiva com o Secret Hub e torne-se um verdadeiro mestre de Blox Fruits. Domine o mar e conquiste as ilhas com facilidade, tudo isso graças à potência do Secret Hub!
 
-
-> Para Usar O Script e Bem Simples:
-
-1. ***Abra O Site Do [Secret Hub](https://secrets-hub.webnode.page)***
-2. ***Clique em Get Key e Passe Dos Checkpoints***
-3. ***Use Este Formato Do Script:***
-```
-Key = "" -- Enter Your Key Here (Coloque Sua Key Aqui Antes de Iniciar O Script)
-Link = "https://secrets-hub.webnode.page"
-Script = "https://raw.githubusercontent.com/GSBRUX0yt/Secret-Script/main/Secret%20Hub.lua"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/FreeKeySystem/main/Lib.lua"))().Sus(Link,Script,Key)
-```
-4. ***Coloque Sua Key E Se Divirta***
-
-
 # --English (EUA)
 
 # **Secret Hub Readme - The Ultimate Script for Blox Fruits**
@@ -84,17 +69,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/FreeKeySys
 **Note:** Secret Hub was developed with a focus on improving the player experience, but please remember that using scripts in online games may violate terms of service and result in penalties. Use Secret Hub responsibly and be aware of the risks associated with using scripts in games.
 
 Enjoy the ultimate competitive advantage with Secret Hub and become a true Blox Fruits master. Dominate the sea and conquer the islands with ease, all thanks to the power of the Secret Hub!
-
-
-> To Use The Script Is Very Simple:
-
-1. ***Open [Secret Hub Website](https://secrets-hub.webnode.page)***
-2. ***Click on Get Key and Pass Checkpoints***
-3. ***Use This Script Format:***
-```
-Key = "" -- Enter Your Key Here (Put Your Key Here Before Starting The Script)
-Link = "https://secrets-hub.webnode.page"
-Script = "https://raw.githubusercontent.com/GSBRUX0yt/Secret-Script/main/Secret%20Hub.lua"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/FreeKeySystem/main/Lib.lua"))().Sus(Link,Script,Key)
-```
-4. ***Put Your Key and Have Fun***
